@@ -1,16 +1,7 @@
 # gl_tasks
 
-A new Flutter project.
+## Login screen
 
-## Getting Started
+![Screenshot_20230328_003504_com example gl_tasks](https://user-images.githubusercontent.com/70487089/228042248-9121467e-0651-4bb5-b116-6eacf5ec1de5.jpg)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Figma link Copy : https://www.figma.com/file/qQNI6fNxbCk4tj8uZRCBy3/GL-Scratch-(Copy)?node-id=0-1&t=uiqUHPuypoN5GCUn-0
